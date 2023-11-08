@@ -138,6 +138,7 @@ Version:        1.0.0
 ----------------------------*/
 
 @import url("https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600;700;800;900&family=Sail&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
 /* 1.1 Theme Reset Style */
 
 html {
@@ -176,7 +177,7 @@ h4,
 h5,
 h6 {
     color: #101010;
-    font-family: "Sail", cursive;
+    font-family: 'Agbalumo', cursive; 
     font-weight: 400;
 }
 
@@ -643,7 +644,7 @@ a.ui-button:active,
 
 .wpo-section-title h2,
 .wpo-section-title-s2 h2 {
-    font-family: Sail;
+    font-family: Agbalumo; 
     font-size: 50px;
     font-weight: 400;
     margin: 0;
@@ -1441,7 +1442,7 @@ a.ui-button:active,
 }
 
 .blog-sidebar .about-widget a {
-    font-family: "Sail", cursive;
+    font-family: 'Agbalumo', cursive; 
     font-size: 14px;
     font-size: 0.93333rem;
     color: #101010;
@@ -2253,7 +2254,7 @@ a.ui-button:active,
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    font-family: "Sail", cursive;
+    font-family: 'Agbalumo', cursive; 
     color: #657150;
 }
 
@@ -3969,7 +3970,7 @@ a.ui-button:active,
 .wpo-hero-slider-s3 .wpo-hero-title-top span {
     font-size: 22px;
     color: #e4e4e4;
-    font-family: "Sail", cursive;
+    font-family: 'Agbalumo', cursive; 
 }
 
 @media (max-width: 767px) {
@@ -4664,7 +4665,7 @@ a.ui-button:active,
 .static-hero-s5 .wpo-wedding-date #clock3 .time,
 .static-hero-s10 .wpo-wedding-date #clock .time,
 .static-hero-s10 .wpo-wedding-date #clock3 .time {
-    font-family: "Sail", cursive;
+    font-family: 'Agbalumo', cursive; 
     font-size: 60px;
     font-size: 4rem;
     line-height: 1em;
@@ -7603,7 +7604,7 @@ a.ui-button:active,
     color: #fff;
     margin: 0;
     position: relative;
-    font-family: "Sail", cursive;
+    font-family: 'Agbalumo', cursive; 
 }
 
 @media (max-width: 991px) {
@@ -7621,7 +7622,7 @@ a.ui-button:active,
 .wpo-site-footer .about-widget .logo,
 .wpo-site-footer-s2 .about-widget .logo {
     font-size: 35px;
-    font-family: "Sail", cursive;
+    font-family: 'Agbalumo', cursive; 
     color: #fff;
     line-height: 40px;
 }
@@ -10956,8 +10957,8 @@ a.ui-button:active,
 }
 
 .wpo-story-section-s2 .wpo-story-wrap .wpo-story-item .wpo-story-content .thumb span {
-    font-family: "Sail", cursive;
-    font-size: 35px;
+    font-family: 'Agbalumo', cursive; 
+    font-size: 32px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -11609,7 +11610,7 @@ a.ui-button:active,
 }
 
 .wpo-hero-wedding-date #clock .time {
-    font-family: "Sail", cursive;
+    font-family: 'Agbalumo', cursive; 
     font-size: 80px;
     font-size: 5.33333rem;
     line-height: 1em;
@@ -14062,7 +14063,7 @@ a.ui-button:active,
 .wpo-wedding-countdown #clock2 .time,
 .wpo-wedding-countdown-s2 #clock .time,
 .wpo-wedding-countdown-s2 #clock2 .time {
-    font-family: "Sail", cursive;
+    font-family: 'Agbalumo', cursive; 
     font-size: 100px;
     font-size: 6.66667rem;
     line-height: 1em;
@@ -14680,7 +14681,7 @@ a.ui-button:active,
     font-style: normal;
     font-weight: 400;
     color: #101010;
-    font-family: "Sail", cursive;
+    font-family: 'Agbalumo', cursive; 
 }
 
 .wpo-service-section .wpo-service-wrap .wpo-service-item .wpo-service-text a:hover {
@@ -14968,7 +14969,7 @@ a.ui-button:active,
     line-height: 80px;
     color: #657150;
     margin: 0 0 0.1em;
-    font-family: "Sail", cursive;
+    font-family: 'Agbalumo', cursive; 
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -14981,7 +14982,7 @@ a.ui-button:active,
 }
 
 .wpo-fun-fact-section .grid h3 span {
-    font-family: "Sail", cursive;
+    font-family: 'Agbalumo', cursive; 
     line-height: 85px;
 }
 
@@ -15993,7 +15994,7 @@ a.ui-button:active,
     font-style: normal;
     font-weight: 400;
     color: #C8A898;
-    font-family: "Sail", cursive;
+    font-family: 'Agbalumo', cursive; 
 }
 
 .wpo-about-section .wpo-about-wrap .wpo-about-text .about-info,
@@ -17046,7 +17047,7 @@ a.ui-button:active,
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    font-family: "Sail", cursive;
+    font-family: 'Agbalumo', cursive; 
     color: #fff;
     display: block;
 }
@@ -17434,7 +17435,7 @@ a.ui-button:active,
 }
 
 .wpo-invitation-area .wpo-invitation-wrap .wpo-invitation-info #clock .time {
-    font-family: "Sail", cursive;
+    font-family: 'Agbalumo', cursive; 
     font-size: 60px;
     font-size: 4rem;
     line-height: 1em;
@@ -18497,7 +18498,7 @@ a.ui-button:active,
 
 .wpo-category-section .wpo-category-wrap .wpo-category-item .wpo-category-text a {
     text-align: center;
-    font-family: "Sail", cursive;
+    font-family: 'Agbalumo', cursive; 
     font-size: 30px;
     font-style: normal;
     font-weight: 400;
@@ -19744,7 +19745,7 @@ a.ui-button:active,
 
 .wpo-coming-soon-area .coming-soon-section .wpo-wedding-date #clock .time,
 .wpo-coming-soon-area .coming-soon-section .wpo-wedding-date #clock3 .time {
-    font-family: "Sail", cursive;
+    font-family: 'Agbalumo', cursive; 
     font-size: 60px;
     font-size: 4rem;
     line-height: 1em;
@@ -21033,7 +21034,7 @@ a.ui-button:active,
 }
 
 .wpo-shop-single-section .product-info .nav-tabs {
-    font-family: "Sail", cursive;
+    font-family: 'Agbalumo', cursive; 
     border: 0;
 }
 
@@ -23110,7 +23111,7 @@ a.ui-button:active,
 }
 
 .wpo-blog-single-section .comments-area .comment-reply-link {
-    font-family: "Sail", cursive;
+    font-family: 'Agbalumo', cursive; 
     font-size: 14px;
     font-size: 0.93333rem;
     font-weight: 600;
@@ -23882,7 +23883,7 @@ a.ui-button:active,
 }
 
 .preview-section-title h2 {
-    font-family: Sail;
+    font-family: Agbalumo; 
     font-size: 50px;
     font-weight: 400;
     margin: 0;
@@ -24232,7 +24233,7 @@ a.ui-button:active,
     -webkit-transform: rotate(-45deg);
     transform: rotate(-45deg);
     font-size: 50px;
-    font-family: "Sail", cursive;
+    font-family: 'Agbalumo', cursive; 
     display: inline-block;
     padding: 10px 30px;
     background: rgba(0, 0, 0, 0.8);
