@@ -17627,10 +17627,10 @@ a.ui-button:active,
     }
 }
 
-.wpo-invitation-area-s2 .hero-inner,
+/* .wpo-invitation-area-s2 .hero-inner,
 .wpo-coming-soon-area .hero-inner {
     padding-top: 100px;
-}
+} */
 
 @media (max-width: 991px) {
     .wpo-invitation-area-s2 .hero-inner,
